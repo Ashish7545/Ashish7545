@@ -27,12 +27,12 @@
     </a>
 </p> -->
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
   <a href =""> <img height = "185rem" alt="Ashish Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashish7545&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>
   <a href =""><img height = "185rem" alt="Ashish Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish7545&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  <br/> -->
 
 
 <br/>
@@ -43,8 +43,8 @@
 <br/>
 <br/>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
