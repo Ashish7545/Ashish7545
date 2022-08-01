@@ -21,11 +21,11 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/Ashish7545/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashish Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish7545&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> -->
 
 ## 📊 My Github Stats
 
