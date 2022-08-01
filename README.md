@@ -55,8 +55,8 @@
 <a href = "https://www.linkedin.com/feed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ashish7545">
 </a>
-<a href="https://github.com/Ashish7545?tab=followers"><img src="https://img.shields.io/github/followers/Ashish7545?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ashish7545?tab=followers"><img src="https://img.shields.io/github/followers/Ashish7545?label=Followers&style=social" alt="GitHub Badge"></a> -->
