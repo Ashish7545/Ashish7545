@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi, I'm Rahul</h1>
+<h1 align="center">Hi, I'm Ashish Kumar</h1>
 <h3 align="center">❤️ A self-taught programmer 🧑‍💻 and born at very little age😜.</h3>
 
 
@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://rahuii.github.io/portfolio/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://Ashish7545.github.io/portfolio/)**
 
-- 📫 How to reach me **r1303yadav@gmail.com**
+- 📫 How to reach me **ashishraj916263@gmail.com**
 
 <!-- - ⚡ Fun fact **I play games and go to the GYM very often.** -->
 
@@ -26,23 +26,23 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/RahuII/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rahul Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RahuII&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Ashish7545/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashish Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish7545&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-  <a href =""> <img height = "185rem" alt="Rahul Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RahuII&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>
-  <a href =""><img height = "185rem" alt="Rahul Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahuII&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href =""> <img height = "185rem" alt="Ashish Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashish7545&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a>
+  <a href =""><img height = "185rem" alt="Ashish Kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish7545&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/RahuII/github-readme-activity-graph"><img alt="Rahul Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RahuII&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com//github-readme-activity-graph"><img alt="Ashish Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashish7545&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -56,13 +56,11 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "www.linkedin.com/in/rahul-kumar-4497511b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/rahul_kr.yadav/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/r1303yadav"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://twitter.com/rahuI_kr/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/feed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=RahuII">
+    <img src="https://komarev.com/ghpvc/?username=Ashish7545">
 </a>
-<a href="https://github.com/RahuII?tab=followers"><img src="https://img.shields.io/github/followers/RahuII?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Ashish7545?tab=followers"><img src="https://img.shields.io/github/followers/Ashish7545?label=Followers&style=social" alt="GitHub Badge"></a>
