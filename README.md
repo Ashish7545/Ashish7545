@@ -27,7 +27,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
+    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  
