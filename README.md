@@ -25,7 +25,7 @@
   <a href="https://dotnet.microsoft.com/en-us/learn" target="_blank" rel="noreferrer">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
+    <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
