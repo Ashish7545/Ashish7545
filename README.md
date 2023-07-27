@@ -6,13 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I am currently pursuing my **Bachelor's in Computer Science and Engineering**.
+- 🎓 I have just completed my **Bachelor's Education in Computer Science and Engineering**.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I have just completed six months of Training as **.NET Developer**.
+  
+- 👨‍💼 I am able to do projects with **.NET Core MVC, WEB API, Azure Functions**.
 
-- 👨‍💻 My projects are available at **[My Portfolio](https://Ashish7545.github.io/portfolio/)**
+- 👨‍💻 My projects are available at **(https://github.com/Ashish7545?tab=repositories)**.
 
-- 📫 How to reach me **ashishraj916263@gmail.com**
+- 📫 How to reach me **ashishraj916263@gmail.com**.
 
 
 ## 🚀 Languages and Tools:
@@ -52,7 +54,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/feed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ashish-kumar75/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
 <!-- ## ❤ Views and Followers
